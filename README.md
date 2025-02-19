@@ -17,3 +17,5 @@ This respository contains scripts used within SCCM/SCEM to achieve single tasks 
 * [Remove Old PaperCut Versions From Cache Folder.ps1](https://github.com/Andy-Dawson/SCCM-Scripts/blob/main/Scripts/Remove%20Old%20PaperCut%20Versions%20From%20Cache%20Folder.ps1) - Checks the 'C:\Cache' folder created on client computers by the PaperCut client application and removes all but the most recent version. This has been useful for clearing out old versions which contain vulnerabilities.
 
 * [Remove Old Unity Instances.ps1](https://github.com/Andy-Dawson/SCCM-Scripts/blob/main/Scripts/Remove%20Old%20Unity%20Instances.ps1) - Looks for, and removes, old instances of Unity.
+
+* [Query Visual Studio Installation.ps1](https://github.com/Andy-Dawson/SCCM-Scripts/blob/main/Scripts/Query%20Visual%20Studio%20Instalation.ps1) - Looks for, and reports the version of Visual Studio Community 2022, if one is installed.
